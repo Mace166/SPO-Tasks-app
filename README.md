@@ -1,11 +1,11 @@
 # SPO-Tasks-app
-A User Interface (UI) design using Adobe XD for a Fabric UI/React app based on SharePoint Online.
+A User Interface (UI) design using Adobe XD for a Fabric UI/React Tasks app based on SharePoint Online.
 
 ### Concept
 To design a Sharepoint Online Tasks SPFX application.
 
 ### Requirements
-The app design will be created using Adobe UD and the Fabric UI toolkit.
+The app design will be created using Adobe XD and the Fabric UI toolkit.
 
 The app must be intuitive and easy to use without training.
 
