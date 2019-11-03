@@ -46,7 +46,7 @@ The design is intended to evolve and be refined over time. If there are signific
 This initial version has been built for a Modern Experience Team Site, but should work equally well for a Communication Site.
 This is an app that would need at least 2/3 columns of the page if not a complete single column row.
 The mobile styling and editing via the property pane screens may be incorporated in a later version.
-[Mace166-SPO-Tasks-01](https://xd.adobe.com/view/25af4600-8bc0-4872-486f-4e02afc8d4d6-539e/?fullscreen)
+<a href="https://xd.adobe.com/view/25af4600-8bc0-4872-486f-4e02afc8d4d6-539e/?fullscreen" target="_blank">SPO Tasks Prototype</a>.
 
 **Next changes:**
 1. Add Property Pane screens to demonstrate how the app will be configured.
