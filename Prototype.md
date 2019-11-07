@@ -9,4 +9,8 @@ The mobile styling and editing via the property pane screens may be incorporated
 1. Feedback on the design and revisions.
 1. Create a mobile phone version of this app as a responsive design.
 
-![Prototype 03/11/2019](/Screenshots/tasks-screenshot-03-11-2019.PNG)
+![Prototype 07/11/2019](/Screenshots/tasks-screenshot-07-11-2019-01.PNG)
+
+![Prototype 07/11/2019](/Screenshots/tasks-screenshot-07-11-2019-02.PNG)
+
+![Prototype 07/11/2019](/Screenshots/tasks-screenshot-07-11-2019-03.PNG)
